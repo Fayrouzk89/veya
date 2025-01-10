@@ -40,6 +40,8 @@
    cd your-repository
  link how does it work:
  https://www.youtube.com/shorts/ptNwmy0wTc4
+
+ 
  link to apk:
  https://drive.google.com/file/d/1klFZBoEgnbOddhOllnsl25dih847P2yM/view?usp=sharing
 
